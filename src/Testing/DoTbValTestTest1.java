@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import Program.FrameUI;
 
-public class DoTbValTest {
+public class DoTbValTest1 {
 
 @Test
 public void testKtVal() {
