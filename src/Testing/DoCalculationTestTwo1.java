@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import Program.FrameUI;
 
-public class DoCalculationTestTwo {
+public class DoCalculationTestTwo1 {
 
 @Test
 public void testCalculation() {
