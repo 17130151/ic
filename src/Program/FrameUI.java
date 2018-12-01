@@ -1,5 +1,4 @@
 
-*/ Класс FrameUI, содержащий графический интерфейс программы и функцию расчета*/
 package Program;
 
 import javax.swing.*; 
