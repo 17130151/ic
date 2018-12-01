@@ -1,15 +1,12 @@
 
 package Testing;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
+import junit.framework.TestCase;
 import Program.FrameUI;
 
-public class DoTbValTestTest1 {
+public class DoTbValTestTest1 extends TestCase {
 
-@Test
+
 public void testKtVal() {
 FrameUI frame = new FrameUI("Страховой калькулятор", 820, 780); 
 assertEquals(Double.toString(frame.TbVal(0)),"1215.0"); 
